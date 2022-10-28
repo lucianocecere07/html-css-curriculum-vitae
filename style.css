@@ -1,13 +1,13 @@
 .background {
-    background-color:rgba(93, 93, 93, 0.255);
+    background-color:rgba(237, 237, 237);
     text-align: center;
-    border-bottom: 3px solid rgb(81.2, 54.1, 1.6);
+    border-bottom: 3px solid rgb(207, 138, 4);
 }
 hr {
-    border: 1px solid rgb(81.2, 54.1, 1.6);
+    border: 1px solid rgb(207, 138, 4);
 }
 h3 {
-    color: rgb(81.2, 54.1, 1.6);
+    color: rgb(207, 138, 4);
 }
 h4 {
     font-style: italic;
