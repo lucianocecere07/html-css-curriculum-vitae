@@ -1,10 +1,10 @@
 .background {
     background-color:rgba(93, 93, 93, 0.255);
     text-align: center;
-    border-bottom: 1px solid gold;
+    border-bottom: 3px solid rgb(81.2, 54.1, 1.6);
 }
 hr {
-    border: 2px solid rgb(81.2, 54.1, 1.6);
+    border: 1px solid rgb(81.2, 54.1, 1.6);
 }
 h3 {
     color: rgb(81.2, 54.1, 1.6);
